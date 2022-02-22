@@ -13,7 +13,7 @@
 #include "src/characters/Enemy.h"
 
 #include <ArduboyFX.h>
-#include "src/levels/LevelData.h" 
+#include "fxdata.h" 
 
 Arduboy2Ext arduboy;
 ArduboyTones sound(arduboy.audio.enabled);
