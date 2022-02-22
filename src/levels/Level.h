@@ -7,7 +7,7 @@
 #include "../characters/Enemy.h"
 
 #include <ArduboyFX.h>
-#include "../../fxdata.h"       
+#include "../../fxdata/fxdata.h"       
 
 #define ENCRYPTION_TYPE_RLE_ROW 0
 #define ENCRYPTION_TYPE_RLE_COL 1

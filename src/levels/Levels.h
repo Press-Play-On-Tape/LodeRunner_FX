@@ -3,7 +3,7 @@
 #include "../utils/Arduboy2Ext.h"
 #include "../utils/Utils.h"
 #include "../utils/Enums.h"
-#include "../../fxdata.h"
+#include "../../fxdata/fxdata.h"
 
 #define GAME_NUMBER 1
 #define NUMBER_OF_GAMES 4
